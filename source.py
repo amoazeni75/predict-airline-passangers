@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 @author: S.Alireza Moazeni(S.A.M.P.8)
+@tutorial source: Deep Learning With Python, Develop Deep Learning Models On Theano And TensorFlow Using
+Keras, Jason Brownlee
 """
 
 # Stacked LSTM for international airline passengers problem with memory
